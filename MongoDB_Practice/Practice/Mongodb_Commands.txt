@@ -1,0 +1,10 @@
+MongoDB Commands :
+
+
+
+This Command Is To Store MongoDB DataBase :
+ 
+This Command should run in 
+C:\Program Files\MongoDB\Server\5.0\bin>
+
+mongod.exe --dbpath="S:\HeroVired Refresher\MongoDb_Database"
